@@ -1,3 +1,6 @@
-langchain 
-lainchain_groq
-langchain_openai
+fastapi
+uvicorn
+langchain-core
+langchain-groq
+langserve
+python-dotenv
